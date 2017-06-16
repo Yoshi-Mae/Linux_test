@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-
+#define BUG_NO 10
 
 int main()
 {

@@ -2,7 +2,9 @@
 
 #include <stdio.h>
 
+#define TEST_NUM 666
 #define BUG_NO 10
+
 
 int main()
 {

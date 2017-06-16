@@ -6,5 +6,9 @@
 
 int main()
 {
+    /*ubuntuで追加対応*/
+    for(;;){
+        
+    }
     return 0;
 }
